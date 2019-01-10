@@ -1,2 +1,0 @@
-# Seyi
-Personal Website
